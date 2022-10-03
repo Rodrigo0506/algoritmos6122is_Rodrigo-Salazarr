@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	definir num, num2 Como Entero
+	
+	escribir "introduce el primer numero"
+		leer num
+	escribir "introduce el segundo numero"
+		leer num2
+	
+		Si num>num2 Entonces
+			escribir num/num2
+		SiNo
+			escribir num2/num;
+		Fin Si
+FinAlgoritmo

@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	definir r Como Real
+	escribir "ingrese el radio";
+	leer r
+	a=pi*r^2;
+	escribir "el area del circulo es " a;
+	
+FinAlgoritmo
